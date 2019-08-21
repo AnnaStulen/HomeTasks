@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_ConsoleApp1.-807826323.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Desktop\lessons\ConsoleApp1" t="IncludeFlat">
+      <e p="ConsoleApp1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class14.cs" t="Include" />
+        <e p="Class15.cs" t="Include" />
+        <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ConsoleApp1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="task 12.cs" t="Include" />
+        <e p="task10.cs" t="Include" />
+        <e p="task11.cs" t="Include" />
+        <e p="task13.cs" t="Include" />
+        <e p="task2.cs" t="Include" />
+        <e p="task3.cs" t="Include" />
+        <e p="task4.cs" t="Include" />
+        <e p="task5.cs" t="Include" />
+        <e p="task6.cs" t="Include" />
+        <e p="task7.cs" t="Include" />
+        <e p="task8.cs" t="Include" />
+        <e p="task9.cs" t="Include" />
+      </e>
+      <e p="ConsoleApp1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
