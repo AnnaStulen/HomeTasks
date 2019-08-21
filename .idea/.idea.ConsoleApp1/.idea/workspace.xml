@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+            <state relative-caret-position="544">
+              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
               <folding>
                 <marker date="1566408242287" expanded="true" signature="36:1498" ph="{...}" />
                 <marker date="1566408242287" expanded="true" signature="56:1496" ph="{...}" />
@@ -42,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/task11.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="64">
               <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
               <folding>
                 <marker date="1564509296218" expanded="true" signature="36:373" ph="{...}" />
@@ -57,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/task10.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
+            <state relative-caret-position="160">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <marker date="1564481326955" expanded="true" signature="36:234" ph="{...}" />
@@ -71,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/task6.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="128">
               <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding>
                 <marker date="1564166649350" expanded="true" signature="36:267" ph="{...}" />
@@ -86,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/Class15.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="256">
               <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <marker date="1565970481212" expanded="true" signature="36:648" ph="{...}" />
@@ -103,18 +103,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/Class14.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="48">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding>
-                <marker date="1566408173936" expanded="true" signature="6:42" ph="..." />
-                <marker date="1566408173936" expanded="true" signature="65:1021" ph="{...}" />
-                <marker date="1566408173936" expanded="true" signature="92:1019" ph="{...}" />
-                <marker date="1566408173936" expanded="true" signature="135:246" ph="{...}" />
-                <marker date="1566408173936" expanded="true" signature="292:379" ph="{...}" />
-                <marker date="1566408173936" expanded="true" signature="419:527" ph="{...}" />
-                <marker date="1566408173936" expanded="true" signature="582:698" ph="{...}" />
-                <marker date="1566408173936" expanded="true" signature="736:844" ph="{...}" />
-                <marker date="1566408173936" expanded="true" signature="897:1013" ph="{...}" />
+                <marker date="1566413357366" expanded="true" signature="6:42" ph="..." />
+                <marker date="1566413357366" expanded="true" signature="65:740" ph="{...}" />
+                <marker date="1566413357366" expanded="true" signature="92:738" ph="{...}" />
+                <marker date="1566413357366" expanded="true" signature="138:246" ph="{...}" />
+                <marker date="1566413357366" expanded="true" signature="301:417" ph="{...}" />
+                <marker date="1566413357366" expanded="true" signature="455:563" ph="{...}" />
+                <marker date="1566413357366" expanded="true" signature="616:732" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -152,23 +150,26 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4156DEFD-3D50-4A5F-A099-C2B49343A450/85/86ebbba5/Number.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/task9.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/task8.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/task2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/task3.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/task13.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/task4.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/task5.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/task4.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/task6.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/task7.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/task 12.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/task8.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/task13.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/task11.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/task9.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/task10.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Class14.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/Class15.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Class14.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/task 12.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -191,12 +192,12 @@
         <option value="$PROJECT_DIR$/ConsoleApp1/task7.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/task13.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/Class15.cs" />
-        <option value="$PROJECT_DIR$/ConsoleApp1/Class14.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/Class14.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="472" />
     <option name="y" value="79" />
     <option name="width" value="889" />
@@ -207,25 +208,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,11 +282,12 @@
       <workItem from="1565767046423" duration="29316000" />
       <workItem from="1565967988822" duration="2891000" />
       <workItem from="1566395685631" duration="4125000" />
+      <workItem from="1566413314874" duration="129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93465000" />
+    <option name="totallyTimeSpent" value="93594000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -311,9 +299,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17006803" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.108843535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -329,7 +317,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50793654" side_tool="true" visible="true" weight="0.41826922" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50793654" side_tool="true" visible="true" weight="0.2608" />
       <window_info anchor="bottom" id="Build" order="14" sideWeight="0.49055177" weight="0.3136" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -470,32 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConsoleApp1/task2.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <marker date="1564426870501" expanded="true" signature="37:340" ph="{...}" />
-            <marker date="1564426870501" expanded="true" signature="62:338" ph="{...}" />
-            <marker date="1564426870501" expanded="true" signature="123:332" ph="{...}" />
-            <marker date="1564426870501" expanded="true" signature="134:265" ph="/* int a = 2; ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConsoleApp1/task3.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-          <folding>
-            <marker date="1565859580535" expanded="true" signature="36:756" ph="{...}" />
-            <marker date="1565859580535" expanded="true" signature="61:754" ph="{...}" />
-            <marker date="1565859580535" expanded="true" signature="102:748" ph="{...}" />
-            <marker date="1565859580535" expanded="true" signature="354:699" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/task13.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-708">
@@ -518,25 +480,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConsoleApp1/Class15.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <marker date="1565970481212" expanded="true" signature="36:648" ph="{...}" />
-            <marker date="1565970481212" expanded="true" signature="63:646" ph="{...}" />
-            <marker date="1565970481212" expanded="true" signature="105:640" ph="{...}" />
-            <marker date="1565970481212" expanded="true" signature="336:390" ph="{...}" />
-            <marker date="1565970481212" expanded="true" signature="418:498" ph="{...}" />
-            <marker date="1565970481212" expanded="true" signature="515:598" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        <state relative-caret-position="544">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
           <folding>
             <marker date="1566408242287" expanded="true" signature="36:1498" ph="{...}" />
             <marker date="1566408242287" expanded="true" signature="56:1496" ph="{...}" />
@@ -548,7 +495,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/task11.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="64">
           <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
           <folding>
             <marker date="1564509296218" expanded="true" signature="36:373" ph="{...}" />
@@ -561,7 +508,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/task10.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
+        <state relative-caret-position="160">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
             <marker date="1564481326955" expanded="true" signature="36:234" ph="{...}" />
@@ -573,7 +520,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/task6.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="128">
           <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
           <folding>
             <marker date="1564166649350" expanded="true" signature="36:267" ph="{...}" />
@@ -584,20 +531,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/Class15.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <marker date="1565970481212" expanded="true" signature="36:648" ph="{...}" />
+            <marker date="1565970481212" expanded="true" signature="63:646" ph="{...}" />
+            <marker date="1565970481212" expanded="true" signature="105:640" ph="{...}" />
+            <marker date="1565970481212" expanded="true" signature="336:390" ph="{...}" />
+            <marker date="1565970481212" expanded="true" signature="418:498" ph="{...}" />
+            <marker date="1565970481212" expanded="true" signature="515:598" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/task2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <marker date="1564426870501" expanded="true" signature="62:338" ph="{...}" />
+            <marker date="1564426870501" expanded="true" signature="123:332" ph="{...}" />
+            <marker date="1564426870501" expanded="true" signature="134:265" ph="/* int a = 2; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/task3.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <marker date="1565859580535" expanded="true" signature="61:754" ph="{...}" />
+            <marker date="1565859580535" expanded="true" signature="102:748" ph="{...}" />
+            <marker date="1565859580535" expanded="true" signature="354:699" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/Class14.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="48">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
-            <marker date="1566408173936" expanded="true" signature="6:42" ph="..." />
-            <marker date="1566408173936" expanded="true" signature="65:1021" ph="{...}" />
-            <marker date="1566408173936" expanded="true" signature="92:1019" ph="{...}" />
-            <marker date="1566408173936" expanded="true" signature="135:246" ph="{...}" />
-            <marker date="1566408173936" expanded="true" signature="292:379" ph="{...}" />
-            <marker date="1566408173936" expanded="true" signature="419:527" ph="{...}" />
-            <marker date="1566408173936" expanded="true" signature="582:698" ph="{...}" />
-            <marker date="1566408173936" expanded="true" signature="736:844" ph="{...}" />
-            <marker date="1566408173936" expanded="true" signature="897:1013" ph="{...}" />
+            <marker date="1566413357366" expanded="true" signature="6:42" ph="..." />
+            <marker date="1566413357366" expanded="true" signature="65:740" ph="{...}" />
+            <marker date="1566413357366" expanded="true" signature="92:738" ph="{...}" />
+            <marker date="1566413357366" expanded="true" signature="138:246" ph="{...}" />
+            <marker date="1566413357366" expanded="true" signature="301:417" ph="{...}" />
+            <marker date="1566413357366" expanded="true" signature="455:563" ph="{...}" />
+            <marker date="1566413357366" expanded="true" signature="616:732" ph="{...}" />
           </folding>
         </state>
       </provider>

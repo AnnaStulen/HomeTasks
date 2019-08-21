@@ -35,8 +35,6 @@ namespace ConsoleApp1
             task13.Jen19();
             task13.Randarray();*/
             var class14 = new Class14();
-            class14.Add(23, 4);
-            class14.Add(2, 3, 45);
             Class15.Ifelse();
             class14.Summq(5, 8);
             class14.Summq(85, 41, 20, 65);
